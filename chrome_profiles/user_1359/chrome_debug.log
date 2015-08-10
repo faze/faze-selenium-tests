@@ -1,0 +1,63 @@
+[25754:24587:0810/111658:WARNING:dns_config_service_posix.cc(143)] dns_config has unhandled options!
+[25754:34307:0810/111658:WARNING:address_sorter_posix.cc(377)] FromSockAddr failed on netmask
+[25754:34307:0810/111658:WARNING:address_sorter_posix.cc(377)] FromSockAddr failed on netmask
+[25754:34307:0810/111658:WARNING:address_sorter_posix.cc(377)] FromSockAddr failed on netmask
+[25754:34307:0810/111658:WARNING:address_sorter_posix.cc(377)] FromSockAddr failed on netmask
+[25754:34307:0810/111658:WARNING:address_sorter_posix.cc(377)] FromSockAddr failed on netmask
+[25754:34307:0810/111658:WARNING:address_sorter_posix.cc(377)] FromSockAddr failed on netmask
+[25754:34307:0810/111701:WARNING:data_reduction_proxy_config.cc(423)] SPDY proxy OFF at startup
+[25754:1299:0810/111701:ERROR:bluetooth_adapter_mac.mm(100)] Not implemented reached in virtual bool device::BluetoothAdapterMac::IsDiscoverable() const
+[25754:1299:0810/111704:INFO:CONSOLE(8)] "SW registered", source: https://www.google.com/_/chrome/newtab?espv=2&ie=UTF-8 (8)
+[25754:1299:0810/111705:ERROR:CONSOLE(119)] "Failed to execute 'postMessage' on 'DOMWindow': The target origin provided ('http://faze-web.dev') does not match the recipient window's origin ('https://www.google.com').", source: chrome-search://most-visited/single.js (119)
+[25754:1299:0810/111717:INFO:CONSOLE(15751)] "DEBUG: -------------------------------", source: http://faze-web.dev/assets/vendor.js (15751)
+[25754:1299:0810/111717:INFO:CONSOLE(15751)] "DEBUG: Ember      : 1.11.3", source: http://faze-web.dev/assets/vendor.js (15751)
+[25754:1299:0810/111717:INFO:CONSOLE(15751)] "DEBUG: Ember Data : 1.0.0-beta.17", source: http://faze-web.dev/assets/vendor.js (15751)
+[25754:1299:0810/111717:INFO:CONSOLE(15751)] "DEBUG: jQuery     : 1.11.3", source: http://faze-web.dev/assets/vendor.js (15751)
+[25754:1299:0810/111717:INFO:CONSOLE(15751)] "DEBUG: -------------------------------", source: http://faze-web.dev/assets/vendor.js (15751)
+[25754:1299:0810/111720:INFO:CONSOLE(15751)] "DEBUG: For more advanced debugging, install the Ember Inspector from https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi", source: http://faze-web.dev/assets/vendor.js (15751)
+[25754:1299:0810/111721:INFO:CONSOLE(6581)] "userSession=", source: http://faze-web.dev/assets/faze.js (6581)
+[25754:1299:0810/111721:INFO:CONSOLE(1812)] "BOOTSTRAPPING EVENT...", source: http://faze-web.dev/assets/faze.js (1812)
+[25754:1299:0810/111721:INFO:CONSOLE(1816)] "io namespace created!", source: http://faze-web.dev/assets/faze.js (1816)
+[25754:1299:0810/111721:INFO:CONSOLE(1822)] "io onError bound!", source: http://faze-web.dev/assets/faze.js (1822)
+[25754:1299:0810/111721:INFO:CONSOLE(1859)] "io onConnect bound!", source: http://faze-web.dev/assets/faze.js (1859)
+[25754:1299:0810/111721:INFO:CONSOLE(1866)] "io onReconnect bound!", source: http://faze-web.dev/assets/faze.js (1866)
+[25754:1299:0810/111721:INFO:CONSOLE(1868)] "io connect() called!", source: http://faze-web.dev/assets/faze.js (1868)
+[25754:1299:0810/111721:INFO:CONSOLE(1531)] "Host paused event.", source: http://faze-web.dev/assets/faze.js (1531)
+[25754:1299:0810/111722:INFO:CONSOLE(952)] "recordingIds=", source: http://faze-web.dev/assets/faze.js (952)
+[25754:1299:0810/111727:INFO:CONSOLE(7473)] "Socket.io connected to http://localhost:7000/event.", source: http://faze-web.dev/assets/faze.js (7473)
+[25754:1299:0810/111727:INFO:CONSOLE(1855)] "@triggering websocket-connected", source: http://faze-web.dev/assets/faze.js (1855)
+[25754:1299:0810/111727:INFO:CONSOLE(1875)] "@onWebsocket-connected triggered!", source: http://faze-web.dev/assets/faze.js (1875)
+[25754:1299:0810/111727:INFO:CONSOLE(1876)] "calling @connectEvent()", source: http://faze-web.dev/assets/faze.js (1876)
+[25754:1299:0810/111727:INFO:CONSOLE(1142)] "connectEvent checking if logged in and if model exists...", source: http://faze-web.dev/assets/faze.js (1142)
+[25754:1299:0810/111727:INFO:CONSOLE(1148)] "connectEvent: model && auth.isSignedIn is not both true, moving on...", source: http://faze-web.dev/assets/faze.js (1148)
+[25754:1299:0810/111727:INFO:CONSOLE(1319)] "connectEvent: @io BOUND!", source: http://faze-web.dev/assets/faze.js (1319)
+[25754:1299:0810/111727:INFO:CONSOLE(1152)] "@io.on 'enter-event': triggered!", source: http://faze-web.dev/assets/faze.js (1152)
+[25754:1299:0810/111727:INFO:CONSOLE(1153)] "@io.on 'enter-event': updating auth!", source: http://faze-web.dev/assets/faze.js (1153)
+[25754:1299:0810/111727:INFO:CONSOLE(1160)] "@io.on 'enter-event': checking @get('isCompatible') && @get('model.room_key') && !@get('isEnded')", source: http://faze-web.dev/assets/faze.js (1160)
+[25754:1299:0810/111727:INFO:CONSOLE(1162)] "@io.on 'enter-event': 3 checks passed", source: http://faze-web.dev/assets/faze.js (1162)
+[25754:1299:0810/111727:INFO:CONSOLE(1163)] "@io.on 'enter-event': calling @connectSession()!", source: http://faze-web.dev/assets/faze.js (1163)
+[25754:1299:0810/111727:INFO:CONSOLE(1165)] "@io.on 'enter-event': calling @checkIn()!", source: http://faze-web.dev/assets/faze.js (1165)
+[25754:1299:0810/111728:INFO:CONSOLE(1167)] "@io.on 'enter-event': calling @set('showOverlayMessage',true)!", source: http://faze-web.dev/assets/faze.js (1167)
+[25754:1299:0810/111728:INFO:CONSOLE(1169)] "@io.on 'enter-event': checking if !@get('userSession.session_key') && !@get('isHost') && !@get('isEnded')", source: http://faze-web.dev/assets/faze.js (1169)
+[25754:1299:0810/111728:INFO:CONSOLE(1175)] "@io.on 'enter-event': triggering 'entered-event'", source: http://faze-web.dev/assets/faze.js (1175)
+[25754:1299:0810/111728:INFO:CONSOLE(1882)] "@on entered-event triggered!", source: http://faze-web.dev/assets/faze.js (1882)
+[25754:1299:0810/111728:INFO:CONSOLE(1883)] "@on entered-event: checking if @get('isRunningOrPaused') && @get('isHost')", source: http://faze-web.dev/assets/faze.js (1883)
+[25754:1299:0810/111728:INFO:CONSOLE(1892)] "@on entered-event: FALSE: @get('isRunningOrPaused') && @get('isHost')", source: http://faze-web.dev/assets/faze.js (1892)
+[25754:1299:0810/111728:INFO:CONSOLE(1893)] "@on entered-event: TRUE: @get('isRunningOrPaused') && !@get('isHost') && !@get('userSession.session_key')", source: http://faze-web.dev/assets/faze.js (1893)
+[25754:1299:0810/111728:INFO:CONSOLE(1239)] "Updated viewer count 11.", source: http://faze-web.dev/assets/faze.js (1239)
+[25754:1299:0810/111730:INFO:CONSOLE(1407)] "Currently chatting has changed!", source: http://faze-web.dev/assets/faze.js (1407)
+[25754:1299:0810/111730:INFO:CONSOLE(1220)] "CURRENTLY CHATTING CHANGED!", source: http://faze-web.dev/assets/faze.js (1220)
+[25754:1299:0810/111730:INFO:CONSOLE(1192)] "Auth updated!", source: http://faze-web.dev/assets/faze.js (1192)
+[25754:1299:0810/111730:INFO:CONSOLE(1210)] "Updating everyones status...", source: http://faze-web.dev/assets/faze.js (1210)
+[25754:1299:0810/111730:INFO:CONSOLE(1239)] "Updated viewer count 11.", source: http://faze-web.dev/assets/faze.js (1239)
+[25754:1299:0810/111732:INFO:CONSOLE(1239)] "Updated viewer count 11.", source: http://faze-web.dev/assets/faze.js (1239)
+[25754:1299:0810/111735:INFO:CONSOLE(1239)] "Updated viewer count 11.", source: http://faze-web.dev/assets/faze.js (1239)
+[25754:1299:0810/111735:INFO:CONSOLE(1239)] "Updated viewer count 11.", source: http://faze-web.dev/assets/faze.js (1239)
+[25754:1299:0810/111738:INFO:CONSOLE(1210)] "Updating everyones status...", source: http://faze-web.dev/assets/faze.js (1210)
+[25772:16151:0810/111739:WARNING:channel.cc(549)] Failed to send message to ack remove remote endpoint (local ID 1, remote ID 1)
+[25772:16151:0810/111739:WARNING:channel.cc(315)] RawChannel write error
+[25762:16647:0810/111739:WARNING:channel.cc(549)] Failed to send message to ack remove remote endpoint (local ID 1, remote ID 1)
+[25762:16647:0810/111739:WARNING:channel.cc(315)] RawChannel write error
+[25754:1299:0810/111829:WARNING:pref_notifier_impl.cc(27)] pref observer found at shutdown plugins.allow_outdated
+[25754:1299:0810/111829:WARNING:pref_notifier_impl.cc(27)] pref observer found at shutdown printing.enabled
+[25754:1299:0810/111829:WARNING:pref_notifier_impl.cc(27)] pref observer found at shutdown plugins.always_authorize

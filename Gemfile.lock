@@ -1,0 +1,39 @@
+GEM
+  specs:
+    celluloid (0.16.0)
+      timers (~> 4.0.0)
+    childprocess (0.5.6)
+      ffi (~> 1.0, >= 1.0.11)
+    connection_pool (2.2.0)
+    ffi (1.9.10)
+    hitimes (1.2.2)
+    json (1.8.3)
+    multi_json (1.11.2)
+    redis (3.2.1)
+    redis-namespace (1.5.2)
+      redis (~> 3.0, >= 3.0.4)
+    rubyzip (1.1.7)
+    selenium-webdriver (2.47.1)
+      childprocess (~> 0.5)
+      multi_json (~> 1.0)
+      rubyzip (~> 1.0)
+      websocket (~> 1.0)
+    sidekiq (3.4.2)
+      celluloid (~> 0.16.0)
+      connection_pool (~> 2.2, >= 2.2.0)
+      json (~> 1.0)
+      redis (~> 3.2, >= 3.2.1)
+      redis-namespace (~> 1.5, >= 1.5.2)
+    timers (4.0.1)
+      hitimes
+    websocket (1.2.2)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  selenium-webdriver
+  sidekiq
+
+BUNDLED WITH
+   1.10.5
